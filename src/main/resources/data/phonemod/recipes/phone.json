@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IGI", "ILI", "IRI"],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:glass_pane" },
+    "L": { "item": "minecraft:lapis_lazuli" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "item": "phonemod:phone" }
+}
